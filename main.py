@@ -1,4 +1,4 @@
-# LLMA Assigment souce code written by Tham Khit Hong Alan
+# Souce code written by Alan Tham
 #
 # To run type "streamlit run main.py"
 # Make sure LM studio is running with meta-llama-3-8b-instruct loaded and Server is in running status.
